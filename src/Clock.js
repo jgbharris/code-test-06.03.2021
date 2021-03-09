@@ -32,7 +32,7 @@ export default class Clock extends Component {
         let timeAlert = ""
 
         if (this.state.time.getMinutes() == 0 && this.state.time.getSeconds() == 0) {
-            timeAlert = `its ${this.state.time.getHours()} ' o clock`
+            timeAlert = `Its ${this.state.time.getHours()} o' clock`
         }
 
         return (
