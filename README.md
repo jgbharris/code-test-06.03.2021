@@ -2,7 +2,13 @@
 
 In the project directory, you can run:
 
-### `npm  i` to install dependencies and `npm start` to run in development mode
+### `npm  i` 
+
+to install dependencies
+
+### `npm start` 
+
+to run in development mode
 
 
 
