@@ -1,6 +1,6 @@
 .App {
   text-align: center;
-  /* display: inline-block; */
+  font-family: sans-serif;
 }
 
 .Clock {
